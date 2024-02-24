@@ -1,9 +1,31 @@
 # BinaryBrigade_DUHACKS3.0
 github repo for submition to DUHACKS 3.0 by team Binary brigade
 
-# Consultiva: Bridging Health and Technology
+# Consultiva - Your Health Companion
 
-Empowering individuals with proactive health insights and accessible medical expertise. Consultiva merges cutting-edge machine learning for disease prediction with a user-friendly interface for seamless online consultations. Take charge of your well-being today.
+🌐 Welcome to Consultiva - Empowering Health through Technology!
 
-🌐 Explore, Predict, Consult - Your Health, Our Priority.
+![Consultiva Screenshot](screenshot.png)
+
+## Table of Contents
+- [About](#about)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About
+
+Consultiva is a revolutionary web application that combines web development and machine learning to predict diseases and offer online consultations. It's designed to simplify healthcare, providing accurate predictions and connecting users with expert healthcare professionals.
+
+## Demo
+
+🚀 Experience the future of healthcare: [Demo Link](YourConsultivaURL)
+
+
+
+  
+
 
