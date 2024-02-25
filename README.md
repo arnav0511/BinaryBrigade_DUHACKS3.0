@@ -3,37 +3,27 @@
 ![Binary Brigade Logo](binary_brigade_logo.png)
 
 ## Problem Statement
-
 In a world overwhelmed with information, healthcare confusion, and accessibility issues, Consultiva strives to revolutionize the way individuals access and engage with healthcare services. The problem of missed job opportunities for students due to scattered information is addressed by our innovative Placement Management System.
 
 ## Introduction
-
 Welcome to Consultiva, where technology meets healthcare for a better tomorrow! Our revolutionary web application combines web development and machine learning to empower you with accurate disease predictions and seamless online consultations. Take charge of your health with Consultiva!
 
 ### Impact
-
 Consultiva aims to make a significant impact by:
-
 - **Increasing Healthcare Accessibility:** By providing accurate disease predictions, Consultiva enables individuals, especially those in remote areas, to access healthcare services without geographical constraints.
-
 - **Empowering Users:** Consultiva empowers users by offering reliable health information at their fingertips, fostering a proactive approach to personal well-being.
-
 - **Streamlining Consultations:** The platform streamlines the consultation process, connecting users with healthcare professionals efficiently, reducing waiting times, and improving overall healthcare delivery.
 
 ### Features
-
 **1. Disease Prediction:**
    - Utilizes cutting-edge machine learning models to predict diseases accurately.
    - Empowers users with early insights into potential health issues.
-
 **2. User-Friendly Interface:**
    - Modern and intuitive design for a seamless and enjoyable user experience.
    - Easy navigation to access features and information effortlessly.
-
 **3. Symptom Verification:**
    - Allows users to input symptoms for verification and analysis.
    - Enhances the accuracy of disease predictions through symptom-based input.
-
 **4. Consultation Workflow:**
    - Facilitates a smooth consultation process between users and healthcare professionals.
    - Ensures secure and confidential communication for sensitive health discussions.
