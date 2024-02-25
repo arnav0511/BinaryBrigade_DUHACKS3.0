@@ -106,14 +106,8 @@ To run Consultiva locally, follow these steps:
 
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000).
 
-## Contact
 
-For any inquiries or support, feel free to reach out at [your_contact_email].
-
-🚀 Join us in transforming healthcare technology with Consultiva!
-
-
-## Team Members
+## Project Created & Maintained By 
 - [Atinder Kumar](https://github.com/atinder11)
 - [Dhruv Singhal](https://github.com/Dhruv-Singhal-15)
 - [Prajwal](https://github.com/prajwal26dec02)
@@ -121,7 +115,6 @@ For any inquiries or support, feel free to reach out at [your_contact_email].
 
 
 ## Thank You!
-
 A special shoutout to everyone who contributed to Consultiva's success. Your commitment and hard work have made this project a reality.
 
 ![Thank You Gif](thank_you.gif)
