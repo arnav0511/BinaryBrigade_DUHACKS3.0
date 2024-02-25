@@ -1,6 +1,8 @@
 # Binary Brigade - Consultiva
 
-![consultivalogo](https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0/assets/105713306/cd5c3ad0-d4de-4721-9e72-f5927e748f24)
+<p align="center">
+  <img src="https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0/assets/105713306/cd5c3ad0-d4de-4721-9e72-f5927e748f24" alt="consultivalogo">
+</p>
 
 ## Problem Statement
 In a world overwhelmed with information, healthcare confusion, and accessibility issues, Consultiva strives to revolutionize the way individuals access and engage with healthcare services. The problem of missed job opportunities for students due to scattered information is addressed by our innovative Placement Management System.
