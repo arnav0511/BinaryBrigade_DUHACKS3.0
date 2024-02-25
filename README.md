@@ -16,24 +16,31 @@ Welcome to Consultiva, where technology meets healthcare for a better tomorrow! 
 
 ## Technology Stack
 
+### Frontend
+
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=flat" alt="React.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" alt="VS Code">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React.js">
 </div>
 
-## Contributors
+### Backend
 
-- [Dhruv Singhal](https://github.com/Dhruv-Singhal-15)
-- [Prajwal](https://github.com/prajwal26dec02)
-- [Atinder Kumar](https://github.com/atinder11)
-- [Arnav Saini](https://github.com/arnav0511)
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" alt="Flask">
+</div>
+
+### Additional Technologies
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas">
+</div>
 
 ## Project Snapshots
 
@@ -42,6 +49,13 @@ Welcome to Consultiva, where technology meets healthcare for a better tomorrow! 
 
 ### Consultation Interface
 ![Consultation Interface](path_to_consultation_interface_screenshot)
+
+## Contributors
+
+- [Dhruv Singhal](https://github.com/Dhruv-Singhal-15)
+- [Prajwal](https://github.com/prajwal26dec02)
+- [Atinder Kumar](https://github.com/atinder11)
+- [Arnav Saini](https://github.com/arnav0511)
 
 ## Getting Started
 
