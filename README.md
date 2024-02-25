@@ -56,16 +56,6 @@ Consultiva aims to make a significant impact by:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
-## Flow Chart
-
-### Data Collection
-![Data Collection](path_to_data_collection.png)
-
-### Disease Prediction
-![Disease Prediction](path_to_disease_prediction.png)
-
-### Consultation Workflow
-![Consultation Workflow](path_to_consultation_workflow.png)
 
 ## Project Snapshots
 
