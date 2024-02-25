@@ -18,12 +18,15 @@ Consultiva aims to make a significant impact by:
 **1. Disease Prediction:**
    - Utilizes cutting-edge machine learning models to predict diseases accurately.
    - Empowers users with early insights into potential health issues.
+     
 **2. User-Friendly Interface:**
    - Modern and intuitive design for a seamless and enjoyable user experience.
    - Easy navigation to access features and information effortlessly.
+     
 **3. Symptom Verification:**
    - Allows users to input symptoms for verification and analysis.
    - Enhances the accuracy of disease predictions through symptom-based input.
+     
 **4. Consultation Workflow:**
    - Facilitates a smooth consultation process between users and healthcare professionals.
    - Ensures secure and confidential communication for sensitive health discussions.
