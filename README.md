@@ -18,25 +18,20 @@ Welcome to Consultiva, where technology meets healthcare for a better tomorrow! 
 
 ## Technology Stack
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-- ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=flat)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
-- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+| Frontend   | Backend               | Additional Technologies            |
+|------------|-----------------------|------------------------------------|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat) |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) |  |
+| ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=flat) |  |  |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) |  |  |
 
-## Backend
+## Contributors
 
-- **Backend Framework:** Flask ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
-- **Data Processing:** Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)
-- **Interactive UI:** Streamlit ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
-
-## Additional Technologies
-
-- **IDE:** Visual Studio Code
-- **Version Control:** Git and GitHub
+- [Dhruv Singhal](https://github.com/Dhruv-Singhal-15)
+- [Prajwal](https://github.com/prajwal26dec02)
+- [Atinder Kumar](https://github.com/atinder11)
+- [Arnav Saini](https://github.com/arnav0511)
 
 ## Project Snapshots
 
@@ -81,13 +76,6 @@ To run Consultiva locally, follow these steps:
     ```
 
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000).
-
-## Contributors
-
-- [Dhruv Singhal](https://github.com/Dhruv-Singhal-15)
-- [Prajwal](https://github.com/prajwal26dec02)
-- [Atinder Kumar](https://github.com/atinder11)
-- [Arnav Saini](https://github.com/arnav0511)
 
 ## Contact
 
