@@ -1,64 +1,93 @@
+# Consultiva - Your Health Companion
 
-# Consultiva - A Website to predict your disease
+🌐 Welcome to Consultiva - Empowering Health through Technology!
 
-The "Consultiva" project responds to the pressing need for innovative healthcare solutions in an era marked by increased reliance on digital technology. Aimed at addressing limitations in healthcare accessibility and enhancing the efficiency of medical consultations, Consultiva is a pioneering platform designed to connect qualified healthcare professionals with individuals seeking remote health services.
-By leveraging secure and accessible online channels, Consultiva seeks to bridge geographical and mobility barriers, providing a lifeline for those residing in remote areas or facing mobility challenges. The platform not only alleviates the strain on traditional healthcare systems but also empowers users to take charge of their health by offering reliable medical information at their fingertips.
+![Consultiva Screenshot](screenshot.png)
 
- 
-## Our Commitment
+## Table of Contents
+- [Introduction](#introduction)
+- [Our Commitment](#our-commitment)
+- [Tech Stack](#tech-stack)
+- [Authors](#authors)
+- [Run Locally](#run-locally)
 
-In the landscape of healthcare, where the demand for accessible and efficient medical services meets the transformative power of digital technology, the "Consultiva" project emerges as a beacon of innovation. In an age characterized by the pervasive influence of the internet, Consultiva seeks to revolutionize the way individuals access and engage with healthcare service
+## Introduction
+The Consultiva platform is designed to revolutionize healthcare, combining web development and machine learning for accurate disease prediction and online consultations. It simplifies healthcare by providing precise predictions and connecting users with expert healthcare professionals.
 
+## Website
+Explore Consultiva at [Consultiva Website](YourConsultivaURL)
 
+## Features
+- **Separate Login Pages for Admin, Coordinator, and Students:** Tailored access for various user roles.
+- **Interactive Dashboard:** Engaging and user-friendly dashboard design.
+- **Coordinator Drive Management:** Ability for coordinators to update drive details and manage applications.
+- **Admin Control:** Admin can approve/reject registrations and post notices.
+- **Technical Paper Upload:** Platform for uploading technical papers.
+- **Profiles Viewing:** Users can view student and company profiles.
+- **Interactive Contact Us Page:** Seamless communication through a user-friendly contact page.
 
+## Technology and Framework Used
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+- **Bootstrap**
+- **PHP**
+- **MySQL**
 
+## Project Snapshots
 
+### Home Page
+![Home Page](path_to_homepage_screenshot)
 
-## Tech Stack
+### Registration Page for Students and Companies
+![Registration Page](path_to_registration_screenshot)
 
-**Client:** HTML, CSS, React.Js
+### Login Page
+![Login Page](path_to_login_screenshot)
 
-**Server:** Node.Js
+### Admin Login
+![Admin Login](path_to_admin_login_screenshot)
 
-**Backend:** Python
+### Admin Dashboard
+![Admin Dashboard](path_to_admin_dashboard_screenshot)
 
+### Coordinator Dashboard
+![Coordinator Dashboard](path_to_coordinator_dashboard_screenshot)
 
+### Contact Us
+![Contact Us](path_to_contact_us_screenshot)
+
+## Getting Started
+1. Install XAMPP or WAMPP.
+2. Open XAMPP Control Panel and start Apache and MySQL.
+3. Download the project from [GitHub](https://github.com/yourusername/Consultiva).
+4. OR use Gitbash commands:
+
+    ```bash
+    cd C:\xampp\htdocs\
+    git clone https://github.com/yourusername/Consultiva
+    ```
+
+5. Go to the project directory:
+    ```bash
+    cd Consultiva
+    ```
+
+6. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+7. Start the application:
+    ```bash
+    npm run dev
+    ```
 
 ## Authors
-
 - [Dhruv Singhal](https://github.com/Dhruv-Singhal-15)
 - [Prajwal](https://github.com/prajwal26dec02)
 - [Atinder Kumar](https://github.com/atinder11)
 - [Arnav Saini](https://github.com/arnav0511)
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone [https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0]
-```
-
-Go to the webpage directory
-
-```bash
-  cd webpage
-```
-
-
-
-Install dependencies in the respective directories
-
-```bash
-  npm install
-```
-
-
-Run the application in Frontend folder on your localhost
-
-```bash
-  npm run dev
-```
-
-###
-
+### [Consultiva Demo](YourConsultivaURL)
