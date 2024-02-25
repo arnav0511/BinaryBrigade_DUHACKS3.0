@@ -14,15 +14,12 @@ Welcome to Consultiva, where technology meets healthcare for a better tomorrow! 
 ### Future Expansion
 
 As we look ahead to the future of Consultiva, we're committed to enhancing its capabilities. Here are some exciting features on our roadmap:
-### Future Scope
-
-As we envision the future of Consultiva, we aim to expand its capabilities. Some potential features on our roadmap include:
-
-- **Health Records Management:** Enable users to store and manage their health records securely.
-- **Integration with Wearable Devices:** Connect with wearable devices to gather real-time health data.
-- **Community Forum:** Establish a platform for users to share experiences and insights.
-- **Telemedicine Integration:** Facilitate live video consultations with healthcare professionals.
-- **Medication Reminders:** Implement a feature for users to receive medication reminders.
+- **Health Records Management:** Empower users with secure storage and management of their health records.
+- **Wearable Device Integration:** Seamlessly connect with wearable devices to access real-time health data.
+- **Community Forum:** Foster a platform for users to exchange experiences and insights, building a supportive community.
+- **Telemedicine Integration:** Enable seamless live video consultations with healthcare professionals for personalized care.
+- **Medication Reminders:** Implement a feature to provide users with timely medication reminders, ensuring adherence to treatment plans.
+  
 
 ## Technology Stack
 
