@@ -1,93 +1,98 @@
 # Consultiva - Your Health Companion
 
-🌐 Welcome to Consultiva - Empowering Health through Technology!
-
-![Consultiva Screenshot](screenshot.png)
-
-## Table of Contents
-- [Introduction](#introduction)
-- [Our Commitment](#our-commitment)
-- [Tech Stack](#tech-stack)
-- [Authors](#authors)
-- [Run Locally](#run-locally)
+<p align="center">
+  <img src="screenshot.png" alt="Consultiva Screenshot">
+</p>
 
 ## Introduction
-The Consultiva platform is designed to revolutionize healthcare, combining web development and machine learning for accurate disease prediction and online consultations. It simplifies healthcare by providing precise predictions and connecting users with expert healthcare professionals.
 
-## Website
-Explore Consultiva at [Consultiva Website](YourConsultivaURL)
+Welcome to Consultiva, where technology meets healthcare for a better tomorrow! Our revolutionary web application combines web development and machine learning to empower you with accurate disease predictions and seamless online consultations. Take charge of your health with Consultiva!
 
 ## Features
-- **Separate Login Pages for Admin, Coordinator, and Students:** Tailored access for various user roles.
-- **Interactive Dashboard:** Engaging and user-friendly dashboard design.
-- **Coordinator Drive Management:** Ability for coordinators to update drive details and manage applications.
-- **Admin Control:** Admin can approve/reject registrations and post notices.
-- **Technical Paper Upload:** Platform for uploading technical papers.
-- **Profiles Viewing:** Users can view student and company profiles.
-- **Interactive Contact Us Page:** Seamless communication through a user-friendly contact page.
 
-## Technology and Framework Used
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
-- **Bootstrap**
-- **PHP**
-- **MySQL**
+- **Disease Prediction:** Utilizes cutting-edge machine learning models.
+- **Online Consultations:** Connect with healthcare professionals remotely.
+- **User-Friendly Interface:** Modern and intuitive for a seamless experience.
+- **Admin Dashboard:** Centralized control for administrators.
+- **Technical Paper Upload:** Share and access technical papers.
+
+## Technology Stack
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+- ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=flat)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat)
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)
+
+## Backend
+
+- **Backend Framework:** Flask ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
+- **Data Processing:** Pandas ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat)
+- **Interactive UI:** Streamlit ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+
+## Additional Technologies
+
+- **IDE:** Visual Studio Code
+- **Version Control:** Git and GitHub
 
 ## Project Snapshots
 
 ### Home Page
 ![Home Page](path_to_homepage_screenshot)
 
-### Registration Page for Students and Companies
+### Registration Page
 ![Registration Page](path_to_registration_screenshot)
-
-### Login Page
-![Login Page](path_to_login_screenshot)
-
-### Admin Login
-![Admin Login](path_to_admin_login_screenshot)
 
 ### Admin Dashboard
 ![Admin Dashboard](path_to_admin_dashboard_screenshot)
 
-### Coordinator Dashboard
-![Coordinator Dashboard](path_to_coordinator_dashboard_screenshot)
-
-### Contact Us
-![Contact Us](path_to_contact_us_screenshot)
+### Consultation Interface
+![Consultation Interface](path_to_consultation_interface_screenshot)
 
 ## Getting Started
-1. Install XAMPP or WAMPP.
-2. Open XAMPP Control Panel and start Apache and MySQL.
-3. Download the project from [GitHub](https://github.com/yourusername/Consultiva).
-4. OR use Gitbash commands:
+
+To run Consultiva locally, follow these steps:
+
+1. **Clone the repository:**
 
     ```bash
-    cd C:\xampp\htdocs\
-    git clone https://github.com/yourusername/Consultiva
+    git clone https://github.com/yourusername/Consultiva.git
     ```
 
-5. Go to the project directory:
+2. **Navigate to the project directory:**
+
     ```bash
     cd Consultiva
     ```
 
-6. Install dependencies:
+3. **Install dependencies:**
+
     ```bash
     npm install
     ```
 
-7. Start the application:
+4. **Start the application:**
+
     ```bash
-    npm run dev
+    npm start
     ```
 
-## Authors
+5. Open your browser and visit [http://localhost:3000](http://localhost:3000).
+
+## Contributors
+
 - [Dhruv Singhal](https://github.com/Dhruv-Singhal-15)
 - [Prajwal](https://github.com/prajwal26dec02)
 - [Atinder Kumar](https://github.com/atinder11)
 - [Arnav Saini](https://github.com/arnav0511)
 
-### [Consultiva Demo](YourConsultivaURL)
+## Contact
+
+For any inquiries or support, feel free to reach out at [your_contact_email].
+
+🚀 Join us in transforming healthcare technology with Consultiva!
+
+Thank you for exploring Consultiva! Your engagement and contributions help shape the future of accessible and predictive healthcare.
