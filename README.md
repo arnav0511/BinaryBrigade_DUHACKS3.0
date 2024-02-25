@@ -1,6 +1,3 @@
-Apologies for the oversight. Let's include the Visual Studio Code camo in the "Additional Technologies" section:
-
-```markdown
 # Consultiva - Your Health Companion
 
 <p align="center">
@@ -87,6 +84,3 @@ For any inquiries or support, feel free to reach out at [your_contact_email].
 🚀 Join us in transforming healthcare technology with Consultiva!
 
 Thank you for exploring Consultiva! Your engagement and contributions help shape the future of accessible and predictive healthcare.
-```
-
-Now, Visual Studio Code camo is included in the "Additional Technologies" section. Adjust it further as needed.
