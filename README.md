@@ -60,10 +60,10 @@ Consultiva aims to make a significant impact by:
 ## Project Snapshots
 
 ### Home Page
-![Home Page](path_to_homepage_screenshot)
+![homepage](https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0/assets/105713306/3f3957ff-e883-4f88-9266-d082ad21777f)
 
 ### Consultation Interface
-![Consultation Interface](path_to_consultation_interface_screenshot)
+![2](https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0/assets/105713306/60782c7a-b305-4248-b3e2-958f419d33ed)
 
 ### Symptom Verification
 ![Screenshot 2024-02-25 135329](https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0/assets/105713306/6ee19dad-50cd-4182-8362-3d5398c1ea0b)
