@@ -13,18 +13,20 @@ Welcome to Consultiva, where technology meets healthcare for a better tomorrow! 
 - **Disease Prediction:** Utilizes cutting-edge machine learning models.
 - **Online Consultations:** Connect with healthcare professionals remotely.
 - **User-Friendly Interface:** Modern and intuitive for a seamless experience.
-- **Admin Dashboard:** Centralized control for administrators.
-- **Technical Paper Upload:** Share and access technical papers.
 
 ## Technology Stack
 
-| Frontend   | Backend               | Additional Technologies            |
-|------------|-----------------------|------------------------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat) |
-| ![React.js](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=flat) |  |  |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) |  |  |
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=flat" alt="React.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" alt="VS Code">
+</div>
 
 ## Contributors
 
@@ -37,12 +39,6 @@ Welcome to Consultiva, where technology meets healthcare for a better tomorrow! 
 
 ### Home Page
 ![Home Page](path_to_homepage_screenshot)
-
-### Registration Page
-![Registration Page](path_to_registration_screenshot)
-
-### Admin Dashboard
-![Admin Dashboard](path_to_admin_dashboard_screenshot)
 
 ### Consultation Interface
 ![Consultation Interface](path_to_consultation_interface_screenshot)
