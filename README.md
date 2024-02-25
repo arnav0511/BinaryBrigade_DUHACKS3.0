@@ -71,6 +71,8 @@ Consultiva aims to make a significant impact by:
 ### Prediction Percentage
 ![Screenshot 2024-02-25 135428](https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0/assets/105713306/7d6eba18-5ddf-4cfa-b4db-181f751bf205)
 
+### Video
+https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0/assets/105713306/16090012-24d0-42a6-9433-53a419e7459f
 
 
 ## Getting Started
