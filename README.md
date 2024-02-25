@@ -36,7 +36,7 @@ In the landscape of healthcare, where the demand for accessible and efficient me
 Clone the project
 
 ```bash
-  git clone https://github.com/Dhruv-Singhal-15/Minor_sem5_grp42.git
+  git clone [https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0]
 ```
 
 Go to the webpage directory
