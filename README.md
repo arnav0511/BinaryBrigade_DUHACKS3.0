@@ -1,25 +1,42 @@
-# Consultiva - Your Health Companion
+# Binary Brigade - Consultiva
 
-![Consultiva Screenshot](screenshot.png)
+![Binary Brigade Logo](binary_brigade_logo.png)
+
+## Problem Statement
+
+In a world overwhelmed with information, healthcare confusion, and accessibility issues, Consultiva strives to revolutionize the way individuals access and engage with healthcare services. The problem of missed job opportunities for students due to scattered information is addressed by our innovative Placement Management System.
 
 ## Introduction
 
 Welcome to Consultiva, where technology meets healthcare for a better tomorrow! Our revolutionary web application combines web development and machine learning to empower you with accurate disease predictions and seamless online consultations. Take charge of your health with Consultiva!
 
+### Impact
+
+Consultiva aims to make a significant impact by:
+
+- **Increasing Healthcare Accessibility:** By providing accurate disease predictions, Consultiva enables individuals, especially those in remote areas, to access healthcare services without geographical constraints.
+
+- **Empowering Users:** Consultiva empowers users by offering reliable health information at their fingertips, fostering a proactive approach to personal well-being.
+
+- **Streamlining Consultations:** The platform streamlines the consultation process, connecting users with healthcare professionals efficiently, reducing waiting times, and improving overall healthcare delivery.
+
 ### Features
 
-- **Advanced Disease Prediction:** Leveraging state-of-the-art machine learning models for precise forecasts.
-- **Intuitive Interface:** Enjoy a modern and user-friendly design for effortless navigation.
+**1. Disease Prediction:**
+   - Utilizes cutting-edge machine learning models to predict diseases accurately.
+   - Empowers users with early insights into potential health issues.
 
-### Future Expansion
+**2. User-Friendly Interface:**
+   - Modern and intuitive design for a seamless and enjoyable user experience.
+   - Easy navigation to access features and information effortlessly.
 
-As we look ahead to the future of Consultiva, we're committed to enhancing its capabilities. Here are some exciting features on our roadmap:
-- **Health Records Management:** Empower users with secure storage and management of their health records.
-- **Wearable Device Integration:** Seamlessly connect with wearable devices to access real-time health data.
-- **Community Forum:** Foster a platform for users to exchange experiences and insights, building a supportive community.
-- **Telemedicine Integration:** Enable seamless live video consultations with healthcare professionals for personalized care.
-- **Medication Reminders:** Implement a feature to provide users with timely medication reminders, ensuring adherence to treatment plans.
-  
+**3. Symptom Verification:**
+   - Allows users to input symptoms for verification and analysis.
+   - Enhances the accuracy of disease predictions through symptom-based input.
+
+**4. Consultation Workflow:**
+   - Facilitates a smooth consultation process between users and healthcare professionals.
+   - Ensures secure and confidential communication for sensitive health discussions.
 
 ## Technology Stack
 
@@ -35,13 +52,24 @@ As we look ahead to the future of Consultiva, we're committed to enhancing its c
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 
 ### Additional Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+
+## Flow Chart
+
+### Data Collection
+![Data Collection](path_to_data_collection.png)
+
+### Disease Prediction
+![Disease Prediction](path_to_disease_prediction.png)
+
+### Consultation Workflow
+![Consultation Workflow](path_to_consultation_workflow.png)
 
 ## Project Snapshots
 
@@ -51,11 +79,17 @@ As we look ahead to the future of Consultiva, we're committed to enhancing its c
 ### Consultation Interface
 ![Consultation Interface](path_to_consultation_interface_screenshot)
 
-## Contributors
+### Symptom Verification
+![Symptom Verification](path_to_symptom_verification_screenshot)
 
+### Prediction Percentage
+![Prediction Percentage](path_to_prediction_percentage_screenshot)
+
+## Team Members
+
+- [Atinder Kumar](https://github.com/atinder11)
 - [Dhruv Singhal](https://github.com/Dhruv-Singhal-15)
 - [Prajwal](https://github.com/prajwal26dec02)
-- [Atinder Kumar](https://github.com/atinder11)
 - [Arnav Saini](https://github.com/arnav0511)
 
 ## Getting Started
@@ -94,6 +128,17 @@ For any inquiries or support, feel free to reach out at [your_contact_email].
 
 🚀 Join us in transforming healthcare technology with Consultiva!
 
+## Team Contributions
+
+A big thank you to the dedicated team members who made Consultiva possible:
+
+- [Atinder Kumar](https://github.com/atinder11)
+- [Dhruv Singhal](https://github.com/Dhruv-Singhal-15)
+- [Prajwal](https://github.com/prajwal26dec02)
+- [Arnav Saini](https://github.com/arnav0511)
+
 ## Thank You!
 
-![Camo Background](path_to_camo_image)
+A special shoutout to everyone who contributed to Consultiva's success. Your commitment and hard work have made this project a reality.
+
+![Thank You Gif](thank_you.gif)
