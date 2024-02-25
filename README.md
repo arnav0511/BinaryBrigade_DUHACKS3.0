@@ -8,9 +8,12 @@ Welcome to Consultiva, where technology meets healthcare for a better tomorrow! 
 
 ### Features
 
-- **Disease Prediction:** Utilizes cutting-edge machine learning models.
-- **User-Friendly Interface:** Modern and intuitive for a seamless experience.
+- **Advanced Disease Prediction:** Leveraging state-of-the-art machine learning models for precise forecasts.
+- **Intuitive Interface:** Enjoy a modern and user-friendly design for effortless navigation.
 
+### Future Expansion
+
+As we look ahead to the future of Consultiva, we're committed to enhancing its capabilities. Here are some exciting features on our roadmap:
 ### Future Scope
 
 As we envision the future of Consultiva, we aim to expand its capabilities. Some potential features on our roadmap include:
