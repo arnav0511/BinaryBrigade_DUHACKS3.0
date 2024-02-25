@@ -120,6 +120,9 @@ To run Consultiva locally, follow these steps:
 
 
 ## Thank You!
-A special shoutout to everyone who contributed to Consultiva's success. Your commitment and hard work have made this project a reality.
-![a840e498a4a27f5ab3f09efe876614af](https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0/assets/105713306/6424cc41-1371-476a-8b33-65d9cfb9d155)
+A special shoutout to everyone who contributed to Consultiva's success. Your commitment and hard work have made this project a reality.<br>
+<p align="center">
+  <img src="https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0/assets/105713306/6424cc41-1371-476a-8b33-65d9cfb9d155" alt="thanks">
+</p>
+
 
