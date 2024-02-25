@@ -90,7 +90,7 @@ To run Consultiva locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/Consultiva.git
+    git clone https://github.com/arnav0511/BinaryBrigade_DUHACKS3.0.git
     ```
 
 2. **Navigate to the project directory:**
